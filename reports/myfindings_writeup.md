@@ -37,4 +37,4 @@ This is a narrower claim than where I started, but a more honest and useful one 
 
 Controlling for global oil and commodity prices would help isolate how much of the post-2022 effect is PKR-specific versus a shared response to global inflation shocks during the same window. I'd also want to test whether informal remittance channels (unobserved in this data) change the remittance findings at all.
 
-Full code, data sourcing, and charts: [repo link]
+Full code, data sourcing, and charts: https://github.com/ShaafAsif/pkr-inflation-regime-analysis
